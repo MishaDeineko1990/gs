@@ -1,1 +1,1 @@
-# gs
+# granit-sales.github.io
