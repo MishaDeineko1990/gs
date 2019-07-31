@@ -6,6 +6,11 @@
 }
 
 
+.title_gallery_2{
+    margin: 30px 0 20px 20px;
+    }
+
+
 
 /*light galeery*/
 
@@ -13,7 +18,7 @@
     margin: 0 0 20px 10px;
     }
             .demo-gallery{
-                margin: 10px;
+                margin: 20px;
             }
           
             .demo-gallery > ul {               
