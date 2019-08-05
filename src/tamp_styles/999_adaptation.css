@@ -93,6 +93,14 @@
         overflow: hidden;
     }
 
+
+            .demo-gallery > ul > li {
+                min-height: 230px;
+             
+            }
+
+
+
 }
 
 
